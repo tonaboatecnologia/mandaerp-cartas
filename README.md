@@ -1,1 +1,1 @@
-#gerador de cartas - Mandaerp
+# gerador de cartas - Mandaerp
